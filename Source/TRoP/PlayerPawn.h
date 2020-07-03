@@ -2,8 +2,10 @@
 
 #pragma once
 
+#include "Components/StaticMeshComponent.h"
 #include "CoreMinimal.h"
 #include "GameFramework/Pawn.h"
+#include "GameFramework/FloatingPawnMovement.h"
 #include "PlayerPawn.generated.h"
 
 class UFloatingPawnMovement;
