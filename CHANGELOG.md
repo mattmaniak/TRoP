@@ -1,2 +1,4 @@
-#### 0.0.0
+#### WIP
 - Project preparation.
+- Controls handling.
+- Experimental world size mockup.
