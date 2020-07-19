@@ -1,5 +1,8 @@
 # TRoP
 Yet another 2D side scroller made from scratch in the UE4 as a prototype.
+---
+>*[80% of the lifetime cost of a piece of software goes to maintenance.]*(https://docs.unrealengine.com/en-US/Programming/Development/CodingStandard/index.html)
+---
 
 ## Technical info
 - Engine version: Unreal Engine 4.25.Z
@@ -9,4 +12,3 @@ Yet another 2D side scroller made from scratch in the UE4 as a prototype.
 - Coding Standard: [UE4](https://docs.unrealengine.com/en-US/Programming/Development/CodingStandard/index.html)
 - Style Guide: [Gamemakin UE4](http://ue4.style)
 - Useful linter: [Gamemakin LLC's Linter v2](https://www.unrealengine.com/marketplace/en-US/product/linter-v2)
-- [UE4 Docs](https://docs.unrealengine.com/en-US/index.html).
