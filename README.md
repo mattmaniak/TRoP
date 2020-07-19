@@ -2,8 +2,10 @@
 Yet another 2D side scroller made from scratch in the UE4 as a prototype.
 
 ---
+
 >*80% of the lifetime cost of a piece of software goes to maintenance.*
 >~ Unreal Engine 4 Coding Standard
+
 ---
 
 ## Technical info
