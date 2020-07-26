@@ -1,4 +1,5 @@
 #### WIP
 - Project preparation.
-- Controls handling.
+- Controls.
 - Experimental world size mockup.
+- BLueprints gameplay prototyping.
