@@ -1,4 +1,4 @@
-# TRoP
+# <img src='icon.png' width='32'> TRoP
 Yet another 2D side scroller made from scratch in the UE4 as a prototype.
 
 ---
